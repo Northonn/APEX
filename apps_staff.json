@@ -1,0 +1,15 @@
+{
+    "plugins": [
+        {
+            "name": "Northonn",
+            "author": "Northonn",
+            "version": "1.0.0",
+            "description": "Northonn",
+            "icon": "https://raw.githubusercontent.com/oracle/apex/23.2/docs/img/apps/app-sample-restful-services.svg",
+            "url": "https://github.com/oracle/apex/tree/23.2/plugins/rest-source/fixed-page-size",
+            "source": "https://raw.githubusercontent.com/oracle/apex/23.2/plugins/rest-source/fixed-page-size/web_source_type_fixedpagesize.sql",
+            "zip": "",
+            "license": ""
+        }
+    ]
+}
