@@ -1,0 +1,14 @@
+{
+    "SRV": [
+        {
+            "internalName": "SRV_APP",
+            "name": "SRV App",
+            "description": "This app is a sample app.",
+            "author": "Staff informatica Ltda",
+            "version": "1.0.0",
+            "icon": "https://example.com/apex/apps/sample_app/app-icon.svg",
+"url": "https://example.com/apex/apps/sample_app",
+"source": "https://example.com/apex/apps/sample_app/sample_app.sql",
+"zip": "https://example.com/apex/apps/sample_app/sample_app.zip"
+        }
+    ]
