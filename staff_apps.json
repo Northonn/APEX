@@ -7,7 +7,7 @@
             "icon": "https://raw.githubusercontent.com/Northonn/APEX/1.0/SRV/icon.svg",
             "url": "https://github.com/Northonn/APEX/tree/1.0/SRV",
             "source": "https://raw.githubusercontent.com/Northonn/APEX/1.0/SRV/f1000.sql",
-            "zip": "",
+            "zip": "https://github.com/Northonn/APEX/blob/1.0/SRV/f1000.zip",
             "license": "",
             "i18n": {
                 "en": {
