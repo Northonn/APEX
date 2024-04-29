@@ -1,5 +1,5 @@
 {
-    "SRV": [
+    "sampleApps": [
         {
             "internalName": "SRV_APP",
             "name": "SRV App",
