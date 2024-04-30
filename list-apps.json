@@ -60,7 +60,7 @@
             "url": "https://github.com/Northonn/APEX/tree/1.0/Idioma",
             "source": "https://raw.githubusercontent.com/Northonn/APEX/1.0/Idioma/1.0/f137.sql",
             "zip": "https://raw.githubusercontent.com/Northonn/APEX/1.0/Idioma/1.0/f137.zip", 
-            "license": "",
+            "license": "northonn",
             "i18n": {
                 "en": {
                     "name": "Staff Idioma",
