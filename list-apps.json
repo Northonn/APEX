@@ -103,58 +103,6 @@
                     "description": ""
                 }
             }
-        },       
-        {
-            "internalName": "STAFF_IDIOMA2",
-            "author": "Staff Informática Ltda",
-            "version": "2.0.0",
-            "icon": "https://raw.githubusercontent.com/Northonn/APEX/1.0/Idioma/2.0/language.svg",
-            "url": "https://github.com/Northonn/APEX/tree/1.0/Idioma",
-            "source": "https://raw.githubusercontent.com/Northonn/APEX/1.0/Idioma/2.0/f137.sql",
-            "zip": "https://raw.githubusercontent.com/Northonn/APEX/1.0/Idioma/2.0/f137.zip", 
-            "license": "",
-            "i18n": {
-                "en": {
-                    "name": "Staff Idioma",
-                    "description": "Staff Idiomas é uma plataforma eficiente e amigável desenvolvida para simplificar o processo de cadastro e gerenciamento de idiomas. Seja você um recrutador buscando candidatos multilíngues, um estudante interessado em aprender novos idiomas ou alguém apaixonado pela diversidade linguística, o Staff Idiomas é a solução ideal para suas necessidades."
-                },
-                "de": {
-                    "name": "",
-                    "description": "c"
-                },
-                "es": {
-                    "name": "",
-                    "description": ""
-                },
-                "fr": {
-                    "name": "",
-                    "description": ""
-                },
-                "it": {
-                    "name": "",
-                    "description": ""
-                },
-                "ja": {
-                    "name": "",
-                    "description": ""
-                },
-                "ko": {
-                    "name": "",
-                    "description": ""
-                },
-                "pt-br": {
-                    "name": "",
-                    "description": ""
-                },
-                "zh-cn": {
-                    "name": "",
-                    "description": ""
-                },
-                "zh-tw": {
-                    "name": "",
-                    "description": ""
-                }
-            }
-        }               
+        }          
     ]
 }
