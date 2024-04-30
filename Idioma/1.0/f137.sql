@@ -33,7 +33,7 @@ prompt APPLICATION 137 - Idioma
 -- Application Export:
 --   Application:     137
 --   Name:            Idioma
---   Date and Time:   11:28 Tuesday April 30, 2024
+--   Date and Time:   11:29 Tuesday April 30, 2024
 --   Exported By:     NTO
 --   Flashback:       0
 --   Export Type:     Application Export
