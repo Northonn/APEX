@@ -1,5 +1,5 @@
 {
-    "utilityApps": [
+"utilityApps": [
         {
             "internalName": "SRV",
             "author": "Staff Informática Ltda",
@@ -8,11 +8,47 @@
             "url": "https://github.com/Northonn/APEX/tree/1.0/SRV",
             "source": "https://raw.githubusercontent.com/Northonn/APEX/1.0/SRV/f1000.sql",
             "zip": "https://raw.githubusercontent.com/Northonn/APEX/1.0/SRV/f1000.zip",
-            "license": "asdasd",
+            "license": "",
             "i18n": {
                 "en": {
                     "name": "SRV",
                     "description": "Sistema para gerenciamento"
+                },
+                "de": {
+                    "name": "",
+                    "description": "c"
+                },
+                "es": {
+                    "name": "",
+                    "description": ""
+                },
+                "fr": {
+                    "name": "",
+                    "description": ""
+                },
+                "it": {
+                    "name": "",
+                    "description": ""
+                },
+                "ja": {
+                    "name": "",
+                    "description": ""
+                },
+                "ko": {
+                    "name": "",
+                    "description": ""
+                },
+                "pt-br": {
+                    "name": "",
+                    "description": ""
+                },
+                "zh-cn": {
+                    "name": "",
+                    "description": ""
+                },
+                "zh-tw": {
+                    "name": "",
+                    "description": ""
                 }
             }
         }
