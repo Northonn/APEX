@@ -33,7 +33,7 @@ prompt APPLICATION 137 - Idioma
 -- Application Export:
 --   Application:     137
 --   Name:            Idioma
---   Date and Time:   10:07 Terça-Feira Abril 30, 2024
+--   Date and Time:   10:34 Tuesday April 30, 2024
 --   Exported By:     NTO
 --   Flashback:       0
 --   Export Type:     Application Export
@@ -124,7 +124,7 @@ wwv_imp_workspace.create_flow(
 ,p_substitution_string_01=>'APP_NAME'
 ,p_substitution_value_01=>'Idioma'
 ,p_last_updated_by=>'NTO'
-,p_last_upd_yyyymmddhh24miss=>'20240430100540'
+,p_last_upd_yyyymmddhh24miss=>'20240430103330'
 ,p_file_prefix => nvl(wwv_flow_application_install.get_static_app_file_prefix,'')
 ,p_files_version=>18
 ,p_print_server_type=>'NATIVE'
@@ -19749,7 +19749,7 @@ wwv_flow_imp_page.create_page(
 ,p_protection_level=>'C'
 ,p_page_component_map=>'12'
 ,p_last_updated_by=>'NTO'
-,p_last_upd_yyyymmddhh24miss=>'20240430005933'
+,p_last_upd_yyyymmddhh24miss=>'20240430103330'
 );
 wwv_flow_imp_page.create_page_plug(
  p_id=>wwv_flow_imp.id(499347486640631154)
@@ -19844,7 +19844,7 @@ wwv_flow_imp_page.create_page_item(
 ,p_item_icon_css_classes=>'fa-user'
 ,p_item_template_options=>'#DEFAULT#:t-Form-fieldContainer--xlarge'
 ,p_is_persistent=>'N'
-,p_attribute_01=>'N'
+,p_attribute_01=>'Y'
 ,p_attribute_02=>'N'
 ,p_attribute_04=>'TEXT'
 ,p_attribute_05=>'NONE'
@@ -19893,8 +19893,6 @@ wwv_flow_imp_page.create_page_validation(
 ,p_validation2=>'PLSQL'
 ,p_validation_type=>'FUNC_BODY_RETURNING_ERR_TEXT'
 ,p_always_execute=>'Y'
-,p_validation_condition=>'LOGIN-NORMAL,LOGIN-MFA'
-,p_validation_condition_type=>'REQUEST_IN_CONDITION'
 ,p_associated_item=>wwv_flow_imp.id(329631174484616691)
 ,p_error_display_location=>'INLINE_WITH_FIELD'
 );
@@ -19905,7 +19903,6 @@ wwv_flow_imp_page.create_page_validation(
 ,p_validation=>'return PKG_API_SEGURANCA.valid_username(:P9999_USERNAME);'
 ,p_validation2=>'PLSQL'
 ,p_validation_type=>'FUNC_BODY_RETURNING_ERR_TEXT'
-,p_when_button_pressed=>wwv_flow_imp.id(92947492054149701)
 ,p_associated_item=>wwv_flow_imp.id(329630782963616691)
 ,p_error_display_location=>'INLINE_WITH_FIELD'
 );
@@ -19967,7 +19964,6 @@ wwv_flow_imp_page.create_page_process(
 ,p_attribute_04=>'PROCESS_LOGIN'
 ,p_process_error_message=>unistr('Nome de usu\00E1rio ou senha inv\00E1lido')
 ,p_error_display_location=>'INLINE_IN_NOTIFICATION'
-,p_process_when_button_id=>wwv_flow_imp.id(92946682492149698)
 ,p_internal_uid=>92950439173149717
 );
 wwv_flow_imp_shared.create_invokeapi_comp_param(
