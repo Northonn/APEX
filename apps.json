@@ -53,7 +53,7 @@
             }
         },
         {
-            "internalName": "STAFF_IDIOMA",
+            "internalName": "STAFF_IDIOMA1",
             "author": "Staff Informática Ltda",
             "version": "1.0.0",
             "icon": "https://raw.githubusercontent.com/Northonn/APEX/1.0/Idioma/1.0/language.svg",
@@ -105,7 +105,7 @@
             }
         },       
         {
-            "internalName": "STAFF_IDIOMA",
+            "internalName": "STAFF_IDIOMA2",
             "author": "Staff Informática Ltda",
             "version": "2.0.0",
             "icon": "https://raw.githubusercontent.com/Northonn/APEX/1.0/Idioma/2.0/language.svg",
