@@ -8,27 +8,11 @@
             "url": "https://github.com/Northonn/APEX/tree/1.0/SRV",
             "source": "https://raw.githubusercontent.com/Northonn/APEX/1.0/SRV/f1000.sql",
             "zip": "https://raw.githubusercontent.com/Northonn/APEX/1.0/SRV/f1000.zip",
-            "license": "",
+            "license": "asdasd",
             "i18n": {
                 "en": {
                     "name": "SRV",
                     "description": "Sistema para gerenciamento"
-                }
-            }
-        },
-        {
-            "internalName": "IDIOMA",
-            "author": "Staff Informática Ltda",
-            "version": "1.0.0",
-            "icon": "https://raw.githubusercontent.com/Northonn/APEX/1.0/Idioma/language.svg",
-            "url": "https://github.com/Northonn/APEX/tree/1.0/SRV",
-            "source": "https://raw.githubusercontent.com/Northonn/APEX/1.0/Idioma/f137.sql",
-            "zip": "https://raw.githubusercontent.com/Northonn/APEX/1.0/Idioma/f137.zip",
-            "license": "",
-            "i18n": {
-                "en": {
-                    "name": "Staff Idiomas",
-                    "description": "Staff Idiomas é uma plataforma eficiente e amigável desenvolvida para simplificar o processo de cadastro e gerenciamento de idiomas. Seja você um recrutador buscando candidatos multilíngues, um estudante interessado em aprender novos idiomas ou alguém apaixonado pela diversidade linguística, o Staff Idiomas é a solução ideal para suas necessidades."
                 }
             }
         }
