@@ -53,7 +53,7 @@
             }
         },
         {
-            "internalName": "Staff MPD 1",
+            "internalName": "Filmes",
             "author": "Staff Informática Ltda",
             "version": "1.0.0",
             "icon": "https://raw.githubusercontent.com/Northonn/APEX/1.0/MPD/1.0/google_tag_manager.svg",
@@ -63,8 +63,8 @@
             "license": "",
             "i18n": {
                 "en": {
-                    "name": "Staff MPD 1",
-                    "description": "Sistema para gerenciamento de clientes da Staff, possuiu gestão de Tenant, Usuários, Papeis de usuário, Cadastro de tenants compartilhados e Gerencimento de menus do sistema"
+                    "name": "Filmes",
+                    "description": "Catalogo com os 30 melhores filmes da historio segundo portal IMDB"
                 },
                 "de": {
                     "name": "",
