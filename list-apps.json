@@ -53,18 +53,18 @@
             }
         },
         {
-            "internalName": "Filmes",
+            "internalName": "Staff MPD",
             "author": "Staff Informática Ltda",
             "version": "1.0.0",
             "icon": "https://raw.githubusercontent.com/Northonn/APEX/1.0/MPD/1.0/google_tag_manager.svg",
             "url": "https://github.com/Northonn/APEX/tree/1.0/SRV",
-            "source": "https://raw.githubusercontent.com/Northonn/APEX/1.0/filmes/f140.sql",
-            "zip": "https://raw.githubusercontent.com/Northonn/APEX/1.0/filmes/f140.zip",
+            "source": "https://raw.githubusercontent.com/Northonn/APEX/1.0/MPD/1.0/f139.sql",
+            "zip": "https://raw.githubusercontent.com/Northonn/APEX/1.0/MPD/1.0/f139.zip",
             "license": "",
             "i18n": {
                 "en": {
-                    "name": "Filmes",
-                    "description": "Lista com os 30 melhores filmes da historia segundo portal IMDB"
+                    "name": "Staff MPD",
+                    "description": "Sistema para gerenciamento de clientes da Staff, possuiu gestão de Tenant, Usuários, Papeis de usuário, Cadastro de tenants compartilhados e Gerencimento de menus do sistema"
                 },
                 "de": {
                     "name": "",
@@ -103,6 +103,6 @@
                     "description": ""
                 }
             }
-        }        
+        }
     ]
 }
