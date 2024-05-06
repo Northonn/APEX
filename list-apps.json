@@ -56,7 +56,7 @@
             "internalName": "Filmes",
             "author": "Staff Informática Ltda",
             "version": "1.0.0",
-            "icon": "https://raw.githubusercontent.com/Northonn/APEX/1.0/MPD/1.0/google_tag_manager.svg",
+            "icon": "https://raw.githubusercontent.com/Northonn/APEX/1.0/filmes/app-icon-256-rounded.png",
             "url": "https://github.com/Northonn/APEX/tree/1.0/SRV",
             "source": "https://raw.githubusercontent.com/Northonn/APEX/1.0/filmes/f140.sql",
             "zip": "https://raw.githubusercontent.com/Northonn/APEX/1.0/filmes/f140.zip",
